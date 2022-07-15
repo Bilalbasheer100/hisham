@@ -9803,7 +9803,7 @@ a.navbar-brand span.fa {
   max-width: 750px; }
 
 .w3l-main-banner .banner-view {
-  background: url(../images/mainimage.jpg) no-repeat right;
+  background: url(../images/g4.jpg) no-repeat right;
   background-size: cover;
   min-height: 700px;
   z-index: 0;
@@ -10531,7 +10531,7 @@ section.w3l-grid-quote h3 {
 /*-- //skills --*/
 /*-- stats --*/
 .w3l-stats {
-  background: url(../images/g2.jpg) no-repeat center;
+  background: url(../images/g5.jpg) no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 1;
